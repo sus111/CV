@@ -1,5 +1,5 @@
 # SUSAN GRAHAM
-[SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | <a href="http://rainbowtrotsky.tumblr.com"/>DRAWING</a> | [INTERESTS](#interests)
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | <a href="http://rainbowtrotsky.tumblr.com"/>DRAWING</a> 
 
 After five years of living and working abroad, I wanted a new challenge, and as a creative individual, becoming a developer really appealed to me. I love working on projects and seeing them come to life, whether that's a scribble that becomes a storyboard, or a JavaScript snippet that inspires a fully fledged web app.
 
