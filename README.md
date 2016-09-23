@@ -24,7 +24,7 @@ Software Craftsmanship<br>
 Ruby, Rails, Javascript, Node.js, Angular.js<br>
 Rspec, Jasmine, Mocha<br>
 
-A few projects include:
+PROJECTS:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
@@ -51,7 +51,7 @@ Self-employed English tutor for individual Russian students aged between four an
 Responsible for teaching English classes and running conversation sessions for a group of sixty students. Involved in the organisation of cultural events for larger groups of students.
 #### English Teacher, International House, Moscow (September 2011 - July 2012)
 
-## INTERESTS/ OTHER
+## INTERESTS
 * Tech meet-ups, including those hosted by Twitter and Codecademy
 * <a href="http://rainbowtrotsky.tumblr.com"/>Drawing</a>, recently did a distance learning course with London College of Art in Cartooning
 * Running several times a week and participating in 5K races
